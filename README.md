@@ -137,12 +137,10 @@ Publish the website in the LocalHost.
         </div>
     </div>
     </body>
-    ```
-
+```
 
 ## OUTPUT:
-![Screenshot 2024-05-06 224939](https://github.com/SIVAmech123/cover/assets/151629067/6723b8ae-6404-4c92-b319-8434aa2ab125)
-
+![Screenshot 2024-05-06 224939](https://github.com/SIVAmech123/cover/assets/151629067/63c7c3d4-ebf7-4c45-adeb-607ad2a7b070)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
