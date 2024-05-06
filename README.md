@@ -141,7 +141,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-cover/out.png
+![Screenshot 2024-05-06 224939](https://github.com/SIVAmech123/cover/assets/151629067/6723b8ae-6404-4c92-b319-8434aa2ab125)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
